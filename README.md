@@ -27,7 +27,17 @@ $$TTR = \frac{V}{N}$$
 
 Anomalies in the $TTR$ over sequential communications highly likely indicate changes in authorship, translation interference, or psychological operations stressors.
 
-## Sample Report
+# Strategic Intelligence Updates
+
+Open-source prompts provide localized capability. True advanced analytic dominance requires continuous tradecraft refinement. 
+
+We publish deep dives into adversary behavior, cognitive warfare tactics, and low-code AI orchestration models. Receive these intelligence assessments directly in your inbox:
+
+* **[Subscribe to the Strategic Intelligence Feed on Substack](https://treadstone71.substack.com)**
+* **[Read the Cognitive Warfare Operational Blog on WordPress](https://cybershafarat.com)**
+
+
+# Sample Report
 https://github.com/jsbardin/Operation_Red_Dragon_July2026/ 
 
 ## Installation
