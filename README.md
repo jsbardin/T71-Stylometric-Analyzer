@@ -27,6 +27,9 @@ $$TTR = \frac{V}{N}$$
 
 Anomalies in the $TTR$ over sequential communications highly likely indicate changes in authorship, translation interference, or psychological operations stressors.
 
+## Sample Report
+https://github.com/jsbardin/Operation_Red_Dragon_July2026/ 
+
 ## Installation
 
 Clone the repository locally using terminal access:
@@ -34,3 +37,5 @@ Clone the repository locally using terminal access:
 ```bash
 git clone [https://github.com/jsbardin/T71-Stylometric-Analyzer.git](https://github.com/jsbardin/T71-Stylometric-Analyzer.git)
 cd T71-Stylometric-Analyzer
+
+
