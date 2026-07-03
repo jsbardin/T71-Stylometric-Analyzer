@@ -1,0 +1,27 @@
+Cultural_Nexus_Mapping.json
+JSON
+{
+  "adversary_profiles": {
+    "state_sponsored_east_asia": {
+      "average_ttr_baseline": 0.42,
+      "average_sentence_length_words": 28.5,
+      "dominant_markers": ["collectivist", "dogmatic"],
+      "translation_anomalies": ["dropped articles", "rigid active-voice construction"],
+      "doctrinal_alignment": "Strategic narrative preservation"
+    },
+    "state_sponsored_eastern_europe": {
+      "average_ttr_baseline": 0.55,
+      "average_sentence_length_words": 18.2,
+      "dominant_markers": ["adversarial", "deceptive"],
+      "translation_anomalies": ["excessive passive voice", "high metaphor density"],
+      "doctrinal_alignment": "Reflexive control and strategic ambiguity"
+    },
+    "state_sponsored_middle_east": {
+      "average_ttr_baseline": 0.48,
+      "average_sentence_length_words": 22.1,
+      "dominant_markers": ["dogmatic", "adversarial"],
+      "translation_anomalies": ["high density of superlative modifiers"],
+      "doctrinal_alignment": "Ideological positioning and proxy mobilization"
+    }
+  }
+}
